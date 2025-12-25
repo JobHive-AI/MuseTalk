@@ -16,3 +16,11 @@ ffplay*
 debug
 exp_out
 .gradio
+
+# Local environment and large runtime artifacts
+env/
+mmcv/
+--include/
+avatars/
+data/avatars/
+MuseTalk/
